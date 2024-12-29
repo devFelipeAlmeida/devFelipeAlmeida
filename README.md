@@ -1,5 +1,4 @@
 <!-- Custom Banner -->
-![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+my+GitHub!)
 
 <h1 align="center">Hi, I'm Felipe! 👋</h1>
 
