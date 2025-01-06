@@ -33,7 +33,7 @@ Check out my portfolio to learn more about me:
 
 ## 🚀 My Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,ruby,php,mysql,docker,git,postgres,bootstrap,tailwind,rails,springboot,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,rails,ruby,php,mysql,docker,git,postgres,bootstrap,tailwind,java)](https://skillicons.dev)
 
 
 ---
