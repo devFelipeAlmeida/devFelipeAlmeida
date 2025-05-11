@@ -50,8 +50,8 @@ Check out my portfolio to learn more about me:
 
 ## 📂 Featured Projects
 
-- [**Banking API with SpringBoot**](https://github.com/devFelipeAlmeida/challenge_project-backend) - RESTful API for creating and managing tasks.
-- [**Challenges API with Ruby on Rails**](https://github.com/devFelipeAlmeida/BlogApp-Rails) - Fullstack Blog.
+- [**Challenges API with Ruby on Rails**](https://github.com/devFelipeAlmeida/challenge_project-backend) - RESTful API for creating and managing tasks.
+- [**Fullstack Blog with Ruby on Rails**](https://github.com/devFelipeAlmeida/BlogApp-Rails) - Fullstack Blog.
 - [**Instagram Clone with Ruby on Rails**](https://github.com/devFelipeAlmeida/RubyGram) - Instagram-like app built using pure Ruby on Rails.
 
 ---
